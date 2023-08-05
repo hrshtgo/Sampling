@@ -6,3 +6,4 @@ A python program that balances imbalanced data and applies different sampling te
 * Created 5 different samples using different techniques.
 * Applied 5 different sampling techniques on 5 different machine learning models.
 * Determined which sampling technique gives higher accuracy on which model.
+* Ranked the models based on their TOPSIS score. (Multiple Criteria Decision Making) 
